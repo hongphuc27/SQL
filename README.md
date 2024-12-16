@@ -1,4 +1,4 @@
-# Practice Database Subject in Information Technology University HCM
+# Practice Database Subject in Information Posts and Telecommunications Institute of Technology 
 **Database academic management (Vietnamese: Quản lý giáo vụ)**
 
 1. Using <mark >DDL (Data Definition Language)</mark> such as `CREATE DATABASE` , `CREATE TABLE` to create the database, the table. Define the name of column, the datatype for each column. Using `CONSTRAINT` function to define the Primary key, Foreign key.
